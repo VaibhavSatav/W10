@@ -32,6 +32,7 @@ public class ConcrateClass extends AbstractStudy {
 		System.out.println("hiiii");
 		
 	}
+	//i made some changes today
 
 
 
